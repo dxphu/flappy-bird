@@ -1,0 +1,18 @@
+
+{
+  "short_name": "GeminiBird",
+  "name": "Gemini Flappy Bird AI",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/528/528076.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7dd3fc",
+  "background_color": "#7dd3fc",
+  "orientation": "portrait"
+}
